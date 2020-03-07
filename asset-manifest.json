@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.10c4b5c0.chunk.css",
-    "main.js": "/static/js/main.aa22ac63.chunk.js",
-    "main.js.map": "/static/js/main.aa22ac63.chunk.js.map",
+    "main.css": "/static/css/main.452564af.chunk.css",
+    "main.js": "/static/js/main.cd8b5c37.chunk.js",
+    "main.js.map": "/static/js/main.cd8b5c37.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.37b6ce04.js",
     "runtime-main.js.map": "/static/js/runtime-main.37b6ce04.js.map",
-    "static/js/2.59241e33.chunk.js": "/static/js/2.59241e33.chunk.js",
-    "static/js/2.59241e33.chunk.js.map": "/static/js/2.59241e33.chunk.js.map",
+    "static/js/2.ae185102.chunk.js": "/static/js/2.ae185102.chunk.js",
+    "static/js/2.ae185102.chunk.js.map": "/static/js/2.ae185102.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d356b6eb18a1707fe9e3f2b5eb3537fb.js": "/precache-manifest.d356b6eb18a1707fe9e3f2b5eb3537fb.js",
+    "precache-manifest.7be8ed953ae86958ae0df9da40825753.js": "/precache-manifest.7be8ed953ae86958ae0df9da40825753.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.10c4b5c0.chunk.css.map": "/static/css/main.10c4b5c0.chunk.css.map",
+    "static/css/main.452564af.chunk.css.map": "/static/css/main.452564af.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/animated_logo.svg": "/static/media/animated_logo.a633be2f.svg",
     "static/media/cloud_infrastructure.svg": "/static/media/cloud_infrastructure.9fcc07d3.svg",
@@ -24,6 +24,7 @@
     "static/media/fullstack.svg": "/static/media/fullstack.f6396cd4.svg",
     "static/media/googleAssistant.jpg": "/static/media/googleAssistant.0c8a4c11.jpg",
     "static/media/googleAssistant.svg": "/static/media/googleAssistant.c24ba791.svg",
+    "static/media/iiitk_logo.png": "/static/media/iiitk_logo.c350d799.png",
     "static/media/jsFramework.svg": "/static/media/jsFramework.b05ae5b5.svg",
     "static/media/logo.svg": "/static/media/logo.25bf045c.svg",
     "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
@@ -36,8 +37,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.37b6ce04.js",
-    "static/js/2.59241e33.chunk.js",
-    "static/css/main.10c4b5c0.chunk.css",
-    "static/js/main.aa22ac63.chunk.js"
+    "static/js/2.ae185102.chunk.js",
+    "static/css/main.452564af.chunk.css",
+    "static/js/main.cd8b5c37.chunk.js"
   ]
 }

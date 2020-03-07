@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b6eb020b83a5dda5e86439cf9ec7dfb5",
+    "revision": "e9d2100ea8b59e91052c82f5251feb2b",
     "url": "/index.html"
   },
   {
-    "revision": "971dfdce4ccc251a7d80",
-    "url": "/static/css/main.10c4b5c0.chunk.css"
+    "revision": "9e6a9915dae72924430d",
+    "url": "/static/css/main.452564af.chunk.css"
   },
   {
-    "revision": "dc484e4e7b056739c655",
-    "url": "/static/js/2.59241e33.chunk.js"
+    "revision": "63c75f16cf72280e15d4",
+    "url": "/static/js/2.ae185102.chunk.js"
   },
   {
-    "revision": "971dfdce4ccc251a7d80",
-    "url": "/static/js/main.aa22ac63.chunk.js"
+    "revision": "9e6a9915dae72924430d",
+    "url": "/static/js/main.cd8b5c37.chunk.js"
   },
   {
     "revision": "60c3f02bb17e58be95e3",
@@ -154,6 +154,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c24ba79111a90758a3a472a906ab2901",
     "url": "/static/media/googleAssistant.c24ba791.svg"
+  },
+  {
+    "revision": "c350d7996596e9909fe72c0938cc9ee5",
+    "url": "/static/media/iiitk_logo.c350d799.png"
   },
   {
     "revision": "b05ae5b575a7e1125610944dc152c35f",
