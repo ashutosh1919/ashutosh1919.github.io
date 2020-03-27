@@ -1,28 +1,29 @@
 {
   "files": {
     "main.css": "/static/css/main.c6f48fdc.chunk.css",
-    "main.js": "/static/js/main.622e898c.chunk.js",
-    "main.js.map": "/static/js/main.622e898c.chunk.js.map",
+    "main.js": "/static/js/main.40959e9c.chunk.js",
+    "main.js.map": "/static/js/main.40959e9c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.37b6ce04.js",
     "runtime-main.js.map": "/static/js/runtime-main.37b6ce04.js.map",
-    "static/js/2.b2e03479.chunk.js": "/static/js/2.b2e03479.chunk.js",
-    "static/js/2.b2e03479.chunk.js.map": "/static/js/2.b2e03479.chunk.js.map",
+    "static/js/2.55b2e939.chunk.js": "/static/js/2.55b2e939.chunk.js",
+    "static/js/2.55b2e939.chunk.js.map": "/static/js/2.55b2e939.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.5465d172f43070c8fd5213b60b38e5e6.js": "/precache-manifest.5465d172f43070c8fd5213b60b38e5e6.js",
+    "precache-manifest.d034362b2b06f4bd89d3b3c3e8ca835f.js": "/precache-manifest.d034362b2b06f4bd89d3b3c3e8ca835f.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.c6f48fdc.chunk.css.map": "/static/css/main.c6f48fdc.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/animated_logo.svg": "/static/media/animated_logo.a633be2f.svg",
-    "static/media/cloud_infrastructure.svg": "/static/media/cloud_infrastructure.9fcc07d3.svg",
+    "static/media/cloud_infrastructure.svg": "/static/media/cloud_infrastructure.dfcb7a58.svg",
     "static/media/codeInLogo.png": "/static/media/codeInLogo.b3685be8.png",
     "static/media/contactMail.png": "/static/media/contactMail.d6d4086f.png",
-    "static/media/data_science.svg": "/static/media/data_science.bfc773d4.svg",
+    "static/media/data_science.svg": "/static/media/data_science.434d2b01.svg",
     "static/media/deeplearning_ai_logo.png": "/static/media/deeplearning_ai_logo.7a9b2eb0.png",
     "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
-    "static/media/education.svg": "/static/media/education.a22cbb3b.svg",
+    "static/media/education.svg": "/static/media/education.caed892b.svg",
+    "static/media/experience.svg": "/static/media/experience.85d6957f.svg",
     "static/media/all.css": "/static/media/fa-solid-900.8e4a6dcc.eot",
-    "static/media/feelingProud.svg": "/static/media/feelingProud.159ae1c5.svg",
-    "static/media/fullstack.svg": "/static/media/fullstack.f6396cd4.svg",
+    "static/media/feelingProud.svg": "/static/media/feelingProud.a73310ea.svg",
+    "static/media/fullstack.svg": "/static/media/fullstack.589bec7d.svg",
     "static/media/gcp_logo.png": "/static/media/gcp_logo.ba18401b.png",
     "static/media/googleAssistant.jpg": "/static/media/googleAssistant.0c8a4c11.jpg",
     "static/media/googleAssistant.svg": "/static/media/googleAssistant.c24ba791.svg",
@@ -38,12 +39,12 @@
     "static/media/stanford_logo.png": "/static/media/stanford_logo.da0e7c80.png",
     "static/media/TalkCard.css": "/static/media/talksCardBack.de3da806.svg",
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.7f0feeed.svg",
-    "static/media/ui_ux_design.svg": "/static/media/ui_ux_design.aa22dc2a.svg"
+    "static/media/ui_ux_design.svg": "/static/media/ui_ux_design.67a6a11c.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.37b6ce04.js",
-    "static/js/2.b2e03479.chunk.js",
+    "static/js/2.55b2e939.chunk.js",
     "static/css/main.c6f48fdc.chunk.css",
-    "static/js/main.622e898c.chunk.js"
+    "static/js/main.40959e9c.chunk.js"
   ]
 }
