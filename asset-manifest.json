@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.5e5a7197.chunk.css",
-    "main.js": "/static/js/main.34453f32.chunk.js",
-    "main.js.map": "/static/js/main.34453f32.chunk.js.map",
+    "main.css": "/static/css/main.3f963ef5.chunk.css",
+    "main.js": "/static/js/main.593f8893.chunk.js",
+    "main.js.map": "/static/js/main.593f8893.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.37b6ce04.js",
     "runtime-main.js.map": "/static/js/runtime-main.37b6ce04.js.map",
-    "static/js/2.aca2cd91.chunk.js": "/static/js/2.aca2cd91.chunk.js",
-    "static/js/2.aca2cd91.chunk.js.map": "/static/js/2.aca2cd91.chunk.js.map",
+    "static/js/2.9bfe09d5.chunk.js": "/static/js/2.9bfe09d5.chunk.js",
+    "static/js/2.9bfe09d5.chunk.js.map": "/static/js/2.9bfe09d5.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.7572463dd2cff7be36d63cbece0fb55c.js": "/precache-manifest.7572463dd2cff7be36d63cbece0fb55c.js",
+    "precache-manifest.fb1325e00d6c583314c390424b17b8db.js": "/precache-manifest.fb1325e00d6c583314c390424b17b8db.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.5e5a7197.chunk.css.map": "/static/css/main.5e5a7197.chunk.css.map",
+    "static/css/main.3f963ef5.chunk.css.map": "/static/css/main.3f963ef5.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/animated_logo.svg": "/static/media/animated_logo.a633be2f.svg",
     "static/media/cloud_infrastructure.svg": "/static/media/cloud_infrastructure.dfcb7a58.svg",
@@ -32,6 +32,7 @@
     "static/media/jsFramework.svg": "/static/media/jsFramework.b05ae5b5.svg",
     "static/media/logo.svg": "/static/media/logo.25bf045c.svg",
     "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
+    "static/media/muffito_logo.png": "/static/media/muffito_logo.db6c1c0d.png",
     "static/media/nptel_logo.png": "/static/media/nptel_logo.cd7077f7.png",
     "static/media/portfolio.gif": "/static/media/portfolio.6e7dc5ad.gif",
     "static/media/programmer.svg": "/static/media/programmer.c1a95f73.svg",
@@ -43,8 +44,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.37b6ce04.js",
-    "static/js/2.aca2cd91.chunk.js",
-    "static/css/main.5e5a7197.chunk.css",
-    "static/js/main.34453f32.chunk.js"
+    "static/js/2.9bfe09d5.chunk.js",
+    "static/css/main.3f963ef5.chunk.css",
+    "static/js/main.593f8893.chunk.js"
   ]
 }
