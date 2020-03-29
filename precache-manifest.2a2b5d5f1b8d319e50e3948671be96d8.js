@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "238a0d3043856ab3148d82fba2c9f926",
+    "revision": "1fff3e3b11e1e3c093d19fee9e699d14",
     "url": "/index.html"
   },
   {
-    "revision": "4bfcb2a6e550869128de",
+    "revision": "58b6ea07051cb528faca",
     "url": "/static/css/main.9364ea93.chunk.css"
   },
   {
-    "revision": "3dbdfc1476b2e5e7ae48",
-    "url": "/static/js/2.0ff5f9bd.chunk.js"
+    "revision": "80e01672b782c92332bc",
+    "url": "/static/js/2.9dc8ec94.chunk.js"
   },
   {
-    "revision": "4bfcb2a6e550869128de",
-    "url": "/static/js/main.a586013a.chunk.js"
+    "revision": "58b6ea07051cb528faca",
+    "url": "/static/js/main.f7b752bf.chunk.js"
   },
   {
     "revision": "85f0b8951cd3875d54d6",
@@ -78,6 +78,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "59389695208d7454c6607bed51ed4316",
     "url": "/static/media/developerActivity.59389695.svg"
+  },
+  {
+    "revision": "f65ee6f64b46db0ae0f59279ea7853a8",
+    "url": "/static/media/dsc_logo.f65ee6f6.png"
   },
   {
     "revision": "caed892b2a0b817a8e275ae29638edaf",
@@ -160,6 +164,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/gcp_logo.ba18401b.png"
   },
   {
+    "revision": "e64de169a4222787bc49f3706282ef96",
+    "url": "/static/media/github_logo.e64de169.png"
+  },
+  {
     "revision": "0c8a4c114ad00f7854e91550379b9b91",
     "url": "/static/media/googleAssistant.0c8a4c11.jpg"
   },
@@ -174,6 +182,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c350d7996596e9909fe72c0938cc9ee5",
     "url": "/static/media/iiitk_logo.c350d799.png"
+  },
+  {
+    "revision": "29152cf756a1facead5393c32e373371",
+    "url": "/static/media/intel_logo.29152cf7.jpg"
   },
   {
     "revision": "b05ae5b575a7e1125610944dc152c35f",
